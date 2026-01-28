@@ -1,0 +1,9 @@
+2026-01-27 10:20:55,128 | INFO | Calling external API
+2026-01-27 10:20:55,591 | INFO | CSV files saved
+2026-01-27 10:20:55,596 | INFO | Data loaded into SQLite
+2026-01-27 10:31:19,477 | INFO | Calling external API
+2026-01-27 10:31:20,435 | INFO | CSV files saved
+2026-01-27 10:31:20,440 | INFO | Data loaded into SQLite
+2026-01-27 11:03:33,390 | INFO | Calling external API
+2026-01-27 11:03:35,225 | INFO | CSV files saved
+2026-01-27 11:03:35,229 | INFO | Data loaded into SQLite

@@ -1,0 +1,4 @@
+source etl_env/bin/activate
+
+
+ python pipeline.py
